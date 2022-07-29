@@ -1,0 +1,15 @@
+C:\Users\FSOL_CHEM\source\repos\CalculatorExpresion\CalculatorExpresion\bin\Debug\CalculatorExpresion.exe.config
+C:\Users\FSOL_CHEM\source\repos\CalculatorExpresion\CalculatorExpresion\bin\Debug\CalculatorExpresion.exe
+C:\Users\FSOL_CHEM\source\repos\CalculatorExpresion\CalculatorExpresion\bin\Debug\CalculatorExpresion.pdb
+C:\Users\FSOL_CHEM\source\repos\CalculatorExpresion\CalculatorExpresion\obj\Debug\CalculatorExpresion.csproj.AssemblyReference.cache
+C:\Users\FSOL_CHEM\source\repos\CalculatorExpresion\CalculatorExpresion\obj\Debug\MainWindow.g.cs
+C:\Users\FSOL_CHEM\source\repos\CalculatorExpresion\CalculatorExpresion\obj\Debug\App.g.cs
+C:\Users\FSOL_CHEM\source\repos\CalculatorExpresion\CalculatorExpresion\obj\Debug\CalculatorExpresion_MarkupCompile.cache
+C:\Users\FSOL_CHEM\source\repos\CalculatorExpresion\CalculatorExpresion\obj\Debug\CalculatorExpresion_MarkupCompile.lref
+C:\Users\FSOL_CHEM\source\repos\CalculatorExpresion\CalculatorExpresion\obj\Debug\MainWindow.baml
+C:\Users\FSOL_CHEM\source\repos\CalculatorExpresion\CalculatorExpresion\obj\Debug\CalculatorExpresion.g.resources
+C:\Users\FSOL_CHEM\source\repos\CalculatorExpresion\CalculatorExpresion\obj\Debug\CalculatorExpresion.Properties.Resources.resources
+C:\Users\FSOL_CHEM\source\repos\CalculatorExpresion\CalculatorExpresion\obj\Debug\CalculatorExpresion.csproj.GenerateResource.cache
+C:\Users\FSOL_CHEM\source\repos\CalculatorExpresion\CalculatorExpresion\obj\Debug\CalculatorExpresion.csproj.CoreCompileInputs.cache
+C:\Users\FSOL_CHEM\source\repos\CalculatorExpresion\CalculatorExpresion\obj\Debug\CalculatorExpresion.exe
+C:\Users\FSOL_CHEM\source\repos\CalculatorExpresion\CalculatorExpresion\obj\Debug\CalculatorExpresion.pdb
